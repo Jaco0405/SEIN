@@ -6,7 +6,7 @@
 -->
 <html>
     <head>
-        <title>sSEIN</title>
+        <title>SEIN</title>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="" />
         <meta name="keywords" content="" />
@@ -30,8 +30,8 @@
                 </div>
                 <nav id="nav">
                     <ul>
-                        <li><a href="index.html">Inicio</a></li>
-                        <li><a href="left-sidebar.html" >Sobre nosotros</a></li>
+                        <li><a href="{{URL::to('/inicio')}}">Inicio</a></li>
+                        <li><a href="{{URL::to('/nosotros')}}" >Sobre nosotros</a></li>
                         <li><a href="#">Contacto</a></li>
                     </ul>
                 </nav>
@@ -70,7 +70,7 @@
                             <p>Blandit nunc tempor lobortis nunc non. Mi accumsan. Justo aliquet massa adipiscing cubilia eu accumsan id. Arcu accumsan faucibus vis ultricies adipiscing ornare ut. Mi accumsan justo aliquet.</p>
                             <ul class="icons">
                                 <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                                <li><a href="https://es-la.facebook.com/Soluciones-en-Informatica-323959474283201/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                                <li><a href="https://es-la.facebook.com/Soluciones-en-Inform%C3%A1tica-323959474283201/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
                                 <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                                 <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
                                 <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>

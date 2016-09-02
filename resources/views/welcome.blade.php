@@ -64,7 +64,7 @@
                                 <p>Contamos con técnicos especializados en la reparación de cualquier equipo de cómputo, años de
                                 experiencia nos respaldan como los mejores para dar un servicio de calidad. </p>
                                 <ul class="actions">
-                                    <li><a href="#" class="button alt">Ver más</a></li>
+                                    <li><a href="{{URL::to('/nosotros')}}" class="button alt">Ver más</a></li>
                                 </ul>
                             </section>
                         </div>
@@ -74,7 +74,7 @@
                                 <h3>Redes</h3>
                                 <p>Contamos con certificaciones que nos evalúan como unos de los mejores para realizar la instalacion de redes de cómputo completas.</p>
                                 <ul class="actions">
-                                    <li><a href="#" class="button alt">Ver más</a></li>
+                                    <li><a href="{{URL::to('/nosotros')}}" class="button alt">Ver más</a></li>
                                 </ul>
                             </section>
                         </div>
@@ -98,7 +98,7 @@
                                 <h3>Magna massa blandit</h3>
                                 <p>Feugiat amet accumsan ante aliquet feugiat accumsan. Ante blandit accumsan eu amet tortor non lorem felis semper. Interdum adipiscing orci feugiat penatibus adipiscing col cubilia lorem ipsum dolor sit amet feugiat consequat.</p>
                                 <ul class="actions">
-                                    <li><a href="#" class="button alt">Learn More</a></li>
+                                    <li><a href="{{URL::to('/nosotros')}}" class="button alt">Learn More</a></li>
                                 </ul>
                             </section>
                             <hr />
