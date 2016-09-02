@@ -50,7 +50,7 @@
             </section>-->
             
         <!-- Two -->
-            <section id="two" class="wrapper style2">
+            <section id="two" class="wrapper style1">
                 <header class="major">
                     <h2>“Las Organizaciones triunfadoras del próximo decenio serán las que utilicen los medios digitales para reinventar su propio funcionamiento”</h2>
                     <!--<p>Amet nisi nunc lorem accumsan</p>-->
@@ -83,7 +83,7 @@
             </section>
 
         <!-- Three -->
-            <section id="three" class="wrapper style1">
+            <section id="three" class="wrapper style2">
                 <div class="container">
                     <div class="row">
                         <div class="8u">
