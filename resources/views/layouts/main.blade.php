@@ -70,7 +70,7 @@
                             <p>Blandit nunc tempor lobortis nunc non. Mi accumsan. Justo aliquet massa adipiscing cubilia eu accumsan id. Arcu accumsan faucibus vis ultricies adipiscing ornare ut. Mi accumsan justo aliquet.</p>
                             <ul class="icons">
                                 <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                                <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                                <li><a href="https://es-la.facebook.com/Soluciones-en-Informatica-323959474283201/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
                                 <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                                 <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
                                 <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
