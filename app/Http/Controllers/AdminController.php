@@ -18,6 +18,10 @@ class AdminController extends Controller
     {
         return view('nosotros');
     }
+      public function contacto()
+    {
+        return view('contacto');
+    }
     public function index()
     {
         return view('welcome');

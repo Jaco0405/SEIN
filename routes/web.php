@@ -17,3 +17,4 @@ Route::get('/', function () {
 
 Route::get('/inicio', 'AdminController@index');
 Route::get('/nosotros', 'AdminController@nosotros');
+Route::get('/contacto', 'AdminController@contacto');

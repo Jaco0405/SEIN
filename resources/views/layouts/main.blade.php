@@ -32,7 +32,7 @@
                     <ul>
                         <li><a href="{{URL::to('/inicio')}}">Inicio</a></li>
                         <li><a href="{{URL::to('/nosotros')}}" >Sobre nosotros</a></li>
-                        <li><a href="#">Contacto</a></li>
+                        <li><a href="{{URL::to('/contacto')}}">Contacto</a></li>
                     </ul>
                 </nav>
             </header>
